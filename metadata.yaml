@@ -1,0 +1,46 @@
+_repo: Lo-rondallayre-b-Quentos-populars-catalans_75409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maspons i Labrós, Francesc
+    aliases:
+    - Maspons i Labros, Francesc
+    - Labrós, Francesc Maspons i
+    - Maspons, Francesc
+    - Labrós, Francisco Maspons y
+    - Maspons y Labrós, Francisco
+    birthdate: 1840
+    deathdate: 1901
+    gutenberg_agent_id: '57986'
+    url: http://www.gutenberg.org/2009/agents/57986
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Francisco_Maspons_y_Labr%C3%B3s
+    - https://ca.wikipedia.org/wiki/Francesc_de_Sales_Maspons_i_Labr%C3%B3s
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75409'
+language: ca
+pgterms:marc905: 20250216105425masponsyla
+pgterms:marc906: '1871'
+pgterms:marc907: ES
+production_note: 'Editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bLlibreria de Álvar Verdaguer, $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Spain -- Catalonia'
+- !lcsh 'Tales, Catalan'
+- !lcc 'PC'
+- GITenberg
+tableOfContents: Joan de l'os -- Lo claveller -- Barba d'or -- La creació -- Lo castell
+  de irás y no'n tornarás -- La flor del penical -- Lo capdell d'or -- Los tres germans
+  -- Lo castell del sol -- Lo camí del cel -- Los tres cabells del dimoni -- La fustots
+  -- La rateta -- Lo castell de irás y no hi veurás -- Lo traginer -- Lo fill del
+  pescador -- Lo beneyt -- Las tres taronjas del amor -- Blancaflor -- La ventafochs
+  -- La perera -- La fillastra -- La bruixa del ferrer -- Lo trist -- Lo taronger
+  -- La gavia d'or.
+title: 'Lo rondallayre : $b Quentos populars catalans'
+url: http://www.gutenberg.org/ebooks/75409
