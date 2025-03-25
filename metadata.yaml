@@ -1,5 +1,8 @@
 _repo: Lo-rondallayre-b-Quentos-populars-catalans_75409
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75409-h/images/cover.jpg
 creator:
   author:
     agent_name: Maspons i Labrós, Francesc
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Francisco_Maspons_y_Labr%C3%B3s
     - https://ca.wikipedia.org/wiki/Francesc_de_Sales_Maspons_i_Labr%C3%B3s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75409#Lo-rondallayre-b-Quentos-populars-catalans
 gutenberg_issued: '2025-02-19'
 gutenberg_type: Text
 identifiers:
